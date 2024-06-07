@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "venv\\Scripts\\python.exe",
+    "cSpell.words": [
+        "pyttsx3",
+        "PyPDF2"
+    ]
+}
